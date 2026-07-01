@@ -1,6 +1,5 @@
 # forge
 
-![CI](https://github.com/annguyen34/forge/actions/workflows/ci.yml/badge.svg)
 ![coverage](https://img.shields.io/badge/coverage-~75%25-brightgreen)
 ![go](https://img.shields.io/badge/go-1.22-00ADD8)
 
