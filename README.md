@@ -139,7 +139,3 @@ go test ./...            # everything, including forge's own tests
 - [x] **Phase 5** — tagging, filtering, flaky-test retry
 - [x] **Phase 6** — standalone runner (`cmd/forge`) over `go test -json`
 - [x] **Phase 7** — polish: godoc, coverage, blog write-up
-
-## License
-
-MIT
